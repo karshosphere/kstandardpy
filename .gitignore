@@ -1,0 +1,9 @@
+
+# .gitignore
+
+**/.DS_Store
+**/todo
+
+.venv/
+__pycache__/
+
